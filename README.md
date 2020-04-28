@@ -13,4 +13,5 @@ haven't commited this text
 
 - git stash
 
--  Added to  branch readme 
+
+- Added to branch rebase_notes
