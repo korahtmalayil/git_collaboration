@@ -8,3 +8,7 @@ Git Collaboration Workshop
 - git branch <branch_name>: Will create a new branch 
 
 - git checkout <branch_name>: Moving to a branch
+
+haven't commited this text
+
+- git stash
